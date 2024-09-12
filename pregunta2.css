@@ -1,0 +1,8 @@
+#lbl{
+    font-weight: 600;
+}
+
+input:hover{
+   border-color: blueviolet;
+   border-radius: 5px;
+}
